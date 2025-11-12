@@ -1,0 +1,6 @@
+# No external dependencies required for this project
+# Python standard library modules are sufficient:
+# - sqlite3 (built-in)
+# - hashlib (built-in)
+# - typing (built-in)
+# - unittest (built-in)
