@@ -43,7 +43,7 @@ jobs:
         with:
           args: >
             -Dsonar.projectKey=clean-code-project
-            -Dsonar.organization=your-organization
+            -Dsonar.organization=anjar-wilujeng
             -Dsonar.python.coverage.reportPaths=coverage.xml
 
       - name: Check SonarQube Quality Gate
